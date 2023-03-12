@@ -1,0 +1,457 @@
+{
+        "books":[
+                
+                        {
+                            "id": 1,
+                            "author": "Giacomo Leopardi",
+                            "title": "Poems",
+                            "pages": 184,
+                            "country": "Italy",
+                            "year": 1818,
+                            "language": "Italian",
+                            "link": "\n"
+                          },
+                          {
+                            "id": 2,
+                            "author": "Doris Lessing",
+                            "title": "The Golden Notebook",
+                            "pages": 688,
+                            "country": "United Kingdom",
+                            "year": 1962,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n"
+                          },
+                          {
+                            "id": 3,
+                            "author": "Astrid Lindgren",
+                            "title": "Pippi Longstocking",
+                            "pages": 160,
+                            "country": "Sweden",
+                            "year": 1945,
+                            "language": "Swedish",
+                            "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n"
+                          },
+                          {
+                            "id": 4,
+                            "author": "Lu Xun",
+                            "title": "Diary of a Madman",
+                            "pages": 389,
+                            "country": "China",
+                            "year": 1918,
+                            "language": "Chinese",
+                            "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n"
+                          },
+                          {
+                            "id": 5,
+                            "author": "Naguib Mahfouz",
+                            "title": "Children of Gebelawi",
+                            "pages": 355,
+                            "country": "Egypt",
+                            "year": 1959,
+                            "language": "Arabic",
+                            "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n"
+                          },
+                          {
+                            "id": 6,
+                            "author": "Thomas Mann",
+                            "title": "Buddenbrooks",
+                            "pages": 736,
+                            "country": "Germany",
+                            "year": 1901,
+                            "language": "German",
+                            "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n"
+                          },
+                          {
+                            "id": 7,
+                            "author": "Thomas Mann",
+                            "title": "The Magic Mountain",
+                            "pages": 720,
+                            "country": "Germany",
+                            "year": 1924,
+                            "language": "German",
+                            "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n"
+                          },
+                          {
+                            "id": 8,
+                            "author": "Herman Melville",
+                            "title": "Moby Dick",
+                            "pages": 378,
+                            "country": "United States",
+                            "year": 1851,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Moby-Dick\n"
+                          },
+                          {
+                            "id": 9,
+                            "author": "Michel de Montaigne",
+                            "title": "Essays",
+                            "pages": 404,
+                            "country": "France",
+                            "year": 1595,
+                            "language": "French",
+                            "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n"
+                          },
+                          {
+                            "id": 10,
+                            "author": "Elsa Morante",
+                            "title": "History",
+                            "pages": 600,
+                            "country": "Italy",
+                            "year": 1974,
+                            "language": "Italian",
+                            "link": "https://en.wikipedia.org/wiki/History_(novel)\n"
+                          },
+                          {
+                            "id": 11,
+                            "author": "Toni Morrison",
+                            "title": "Beloved",
+                            "pages": 321,
+                            "country": "United States",
+                            "year": 1987,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n"
+                          },
+                          {
+                            "id": 12,
+                            "author": "Murasaki Shikibu",
+                            "title": "The Tale of Genji",
+                            "pages": 1360,
+                            "country": "Japan",
+                            "year": 1006,
+                            "language": "Japanese",
+                            "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n"
+                          },
+                          {
+                            "id": 13,
+                            "author": "Robert Musil",
+                            "title": "The Man Without Qualities",
+                            "pages": 365,
+                            "country": "Austria",
+                            "year": 1931,
+                            "language": "German",
+                            "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n"
+                          },
+                          {
+                            "id": 14,
+                            "author": "Vladimir Nabokov",
+                            "title": "Lolita",
+                            "pages": 317,
+                            "country": "Russia/United States",
+                            "year": 1955,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Lolita\n"
+                          },
+                          {
+                            "id": 15,
+                            "author": "George Orwell",
+                            "title": "Nineteen Eighty-Four",
+                            "pages": 272,
+                            "country": "United Kingdom",
+                            "year": 1949,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n"
+                          },
+                          {
+                            "id": 16,
+                            "author": "Ovid",
+                            "title": "Metamorphoses",
+                            "pages": 576,
+                            "country": "Roman Empire",
+                            "year": 100,
+                            "language": "Classical Latin",
+                            "link": "https://en.wikipedia.org/wiki/Metamorphoses\n"
+                          },
+                          {
+                            "id": 17,
+                            "author": "Fernando Pessoa",
+                            "title": "The Book of Disquiet",
+                            "pages": 272,
+                            "country": "Portugal",
+                            "year": 1928,
+                            "language": "Portuguese",
+                            "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n"
+                          },
+                          {
+                            "id": 18,
+                            "author": "Edgar Allan Poe",
+                            "title": "Tales",
+                            "pages": 842,
+                            "country": "United States",
+                            "year": 1950,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n"
+                          },
+                          {
+                            "id": 19,
+                            "author": "Marcel Proust",
+                            "title": "In Search of Lost Time",
+                            "pages": 2408,
+                            "country": "France",
+                            "year": 1920,
+                            "language": "French",
+                            "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n"
+                          },
+                          {
+                            "id": 20,
+                            "author": "Fran\u00e7ois Rabelais",
+                            "title": "Gargantua and Pantagruel",
+                            "pages": 623,
+                            "country": "France",
+                            "year": 1533,
+                            "language": "French",
+                            "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n"
+                          },
+                          {
+                            "id": 21,
+                            "author": "Juan Rulfo",
+                            "title": "Pedro P\u00e1ramo",
+                            "pages": 124,
+                            "country": "Mexico",
+                            "year": 1955,
+                            "language": "Spanish",
+                            "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n"
+                          },
+                          {
+                            "id": 22,
+                            "author": "Mevlana",
+                            "title": "The Masnavi",
+                            "pages": 438,
+                            "country": "Sultanate of Seljuks",
+                            "year": 1236,
+                            "language": "Turkish",
+                            "link": "https://en.wikipedia.org/wiki/Masnavi\n" 
+                          },
+                          {
+                            "id": 23,
+                            "author": "Salman Rushdie",
+                            "title": "Midnight's Children",
+                            "pages": 536,
+                            "country": "United Kingdom, India",
+                            "year": 1981,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n"
+                          },
+                          {
+                            "id": 24,
+                            "author": "Saadi",
+                            "title": "Bostan",
+                            "pages": 298,
+                            "country": "Persia, Persian Empire",
+                            "year": 1257,
+                            "language": "Persian",
+                            "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n"
+                          },
+                          {
+                            "id": 25,
+                            "author": "Tayeb Salih",
+                            "title": "Season of Migration to the North",
+                            "pages": 139,
+                            "country": "Sudan",
+                            "year": 1966,
+                            "language": "Arabic",
+                            "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n"
+                          },
+                          {
+                            "id": 26,
+                            "author": "Jos\u00e9 Saramago",
+                            "title": "Blindness",
+                            "pages": 352,
+                            "country": "Portugal",
+                            "year": 1995,
+                            "language": "Portuguese",
+                            "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n"
+                          },
+                          {
+                            "id": 27,
+                            "author": "William Shakespeare",
+                            "title": "Hamlet",
+                            "pages": 432,
+                            "country": "England",
+                            "year": 1603,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Hamlet\n"
+                          },
+                          {
+                            "id": 28,
+                            "author": "William Shakespeare",
+                            "title": "King Lear",
+                            "pages": 384,
+                            "country": "England",
+                            "year": 1608,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/King_Lear\n"
+                          },
+                          {
+                            "id": 29,
+                            "author": "William Shakespeare",
+                            "title": "Othello",
+                            "pages": 314,
+                            "country": "England",
+                            "year": 1609,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Othello\n"
+                          },
+                          {
+                            "id": 30,
+                            "author": "Sophocles",
+                            "title": "Oedipus the King",
+                            "pages": 88,
+                            "country": "Greece",
+                            "year": -430,
+                            "language": "Greek",
+                            "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n"
+                          },
+                          {
+                            "id": 31,
+                            "author": "Stendhal",
+                            "title": "The Red and the Black",
+                            "pages": 576,
+                            "country": "France",
+                            "year": 1830,
+                            "language": "French",
+                            "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n"
+                          },
+                          {
+                            "id": 32,
+                            "author": "Laurence Sterne",
+                            "title": "The Life And Opinions of Tristram Shandy",
+                            "pages": 640,
+                            "country": "England",
+                            "year": 1760,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n"
+                          },
+                          {
+                            "id": 33,
+                            "author": "Italo Svevo",
+                            "title": "Confessions of Zeno",
+                            "pages": 412,
+                            "country": "Italy",
+                            "year": 1923,
+                            "language": "Italian",
+                            "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n"
+                          },
+                          {
+                            "id": 34,
+                            "author": "Jonathan Swift",
+                            "title": "Gulliver's Travels",
+                            "pages": 178,
+                            "country": "Ireland",
+                            "year": 1726,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n"
+                          },
+                          {
+                            "id": 35,
+                            "author": "Leo Tolstoy",
+                            "title": "War and Peace",
+                            "pages": 1296,
+                            "country": "Russia",
+                            "year": 1867,
+                            "language": "Russian",
+                            "link": "https://en.wikipedia.org/wiki/War_and_Peace\n"
+                            
+                          },
+                          {
+                            "id": 36,
+                            "author": "Leo Tolstoy",
+                            "title": "Anna Karenina",
+                            "pages": 864,
+                            "country": "Russia",
+                            "year": 1877,
+                            "language": "Russian",
+                            "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n"
+                          },
+                          {
+                            "id": 37,
+                            "author": "Leo Tolstoy",
+                            "title": "The Death of Ivan Ilyich",
+                            "pages": 92,
+                            "country": "Russia",
+                            "year": 1886,
+                            "language": "Russian",
+                            "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n"
+                          },
+                          {
+                            "id": 38,
+                            "author": "Mark Twain",
+                            "title": "The Adventures of Huckleberry Finn",
+                            "pages": 224,
+                            "country": "United States",
+                            "year": 1884,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n"
+                          },
+                          {
+                            "id": 39,
+                            "author": "Valmiki",
+                            "title": "Ramayana",
+                            "pages": 152,
+                            "country": "India",
+                            "year": -450,
+                            "language": "Sanskrit",
+                            "link": "https://en.wikipedia.org/wiki/Ramayana\n" 
+                          },
+                          {
+                            "id": 40,
+                            "author": "Virgil",
+                            "title": "The Aeneid",
+                            "pages": 442,
+                            "country": "Roman Empire",
+                            "year": -23,
+                            "language": "Classical Latin",
+                            "link": "https://en.wikipedia.org/wiki/Aeneid\n"
+                          },
+                          {
+                            "id": 41,
+                            "author": "Vyasa",
+                            "title": "Mahabharata",
+                            "pages": 276,
+                            "country": "India",
+                            "year": -700,
+                            "language": "Sanskrit",
+                            "link": "https://en.wikipedia.org/wiki/Mahabharata\n"  
+                          },
+                          {
+                            "id": 42,
+                            "author": "Walt Whitman",
+                            "title": "Leaves of Grass",
+                            "pages": 152,
+                            "country": "United States",
+                            "year": 1855,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n"   
+                          },
+                          {
+                            "id": 43,
+                            "author": "Virginia Woolf",
+                            "title": "Mrs Dalloway",
+                            "pages": 216,
+                            "country": "United Kingdom",
+                            "year": 1925,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n" 
+                          },
+                          {
+                            "id": 44,
+                            "author": "Virginia Woolf",
+                            "title": "To the Lighthouse",
+                            "pages": 209,
+                            "country": "United Kingdom",
+                            "year": 1927,
+                            "language": "English",
+                            "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n"
+                          },
+                          {
+                            "id": 45,
+                            "author": "Marguerite Yourcenar",
+                            "title": "Memoirs of Hadrian",
+                            "pages": 408,
+                            "country": "France/Belgium",
+                            "year": 1951,
+                            "language": "French",
+                            "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n"
+                          }
+                    
+        ]
+}
